@@ -77,6 +77,10 @@ input, select, textarea {
 	max-height: 125px;
 }
 
+.col-4:last-child {
+	margin: auto;
+}
+
 /* Basic */
 
 	html {
